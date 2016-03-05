@@ -1,0 +1,8 @@
+h1{
+    font-family: 'clearSansRegular';
+}
+
+@font-face {
+    font-family: 'clearSansRegular';
+    src: url("fonts/ClearSans-Regular.woff");
+}
