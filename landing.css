@@ -1,17 +1,20 @@
 h1 {
     font-family: 'clearSansRegular';
     font-size: 50px;
+    color: #E9E9E9;
 }
 h2 {
     font-family: 'clearSansRegular';
     font-size: 20px;
     margin-top: 5px;
     margin-bottom: 15px;
+    color: #E9E9E9;
 }
 html, body {
     margin: 0;
     padding: 0;
     height: 100%;
+    background-color: #222930;
 }
 #wrapper {
     min-height: 100%;
@@ -22,7 +25,7 @@ html, body {
     /* Height of the footer element */
 }
 #footer {
-    background: #ffab62;
+    background: #4EB1BA;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
