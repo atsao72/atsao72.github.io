@@ -10,6 +10,28 @@ h2 {
     margin-bottom: 15px;
     color: #E9E9E9;
 }
+.height{
+    /*height: 60px !important;*/
+    min-height: 85px !important;
+}
+.navbar-default {
+    background-color: #222930;
+}
+.navbar-default .navbar-nav>.active>a{
+    background-color: #4EB1BA;
+}
+.navbar-default .navbar-nav>li>a {
+    font-family: 'clearSansBold';
+    font-size: 20px;
+    padding-top: 30px;
+    color: #4EB1BA;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    font-family: 'clearSansBold';
+    font-size: 20px;
+    color: #E9E9E9;
+    background-color: #4EB1BA;
+}
 html, body {
     margin: 0;
     padding: 0;
@@ -38,4 +60,8 @@ html, body {
 @font-face {
     font-family: 'clearSansRegular';
     src: url("fonts/ClearSans-Regular.woff");
+}
+@font-face {
+    font-family: 'clearSansBold';
+    src: url("fonts/ClearSans-Bold.woff");
 }
