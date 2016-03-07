@@ -7,12 +7,27 @@ h2 {
     font-family: 'clearSansRegular';
     font-size: 20px;
     margin-top: 5px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     color: #E9E9E9;
 }
 .height{
     /*height: 60px !important;*/
     min-height: 85px !important;
+}
+.footBlock{
+    /*width: 18%*/
+    height: 100%;
+    display: block;
+    float: left;
+    /*position: relative;*/
+    margin-left: 20px;
+}
+#trademark{
+    float: right;
+    margin-top: 75px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+    font-size: 10px;
 }
 .navbar-default {
     background-color: #222930;
@@ -45,16 +60,16 @@ html, body {
     position: relative;
 }
 #body {
-    padding-bottom: 75px;
+    padding-bottom: 80px;
     /* Height of the footer element */
 }
 #footer {
     background: #4EB1BA;
-    text-align: center;
+    /*text-align: center;*/
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    height: 75px;
+    height: 80x;
     position: absolute;
     bottom: 0;
     left: 0;
