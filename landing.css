@@ -61,6 +61,7 @@ html, body {
 }
 #body {
     padding-bottom: 70px;
+    text-align: center;
     /* Height of the footer element */
 }
 #footer {
