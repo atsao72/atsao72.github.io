@@ -68,9 +68,9 @@ html, body {
 
 #body-text {
     text-align: center;
-    max-width: 60%;
+    max-width: 80%;
     display: inline-block;
-    font-size: 25px;
+    font-size: 23px;
 }
 #selfie {
     text-align: left;
